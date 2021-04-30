@@ -1,0 +1,1 @@
+{"message":"Object not found.","code":101,"level":"error","stack":"Error: Object not found.\n    at /home/bob/parse_srv/node_modules/parse-server/lib/Routers/ClassesRouter.js:82:15\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)","timestamp":"2021-04-30T10:41:08.023Z"}
